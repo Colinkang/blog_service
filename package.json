@@ -1,0 +1,28 @@
+{
+  "name": "blog_service",
+  "version": "1.0.0",
+  "description": "create blog service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Colinkang/blog_service.git"
+  },
+  "keywords": [
+    "blog",
+    "egg.js",
+    "typescript"
+  ],
+  "author": "matrix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Colinkang/blog_service/issues"
+  },
+  "homepage": "https://github.com/Colinkang/blog_service#readme",
+  "dependencies": {
+    "egg": "^2.5.0",
+    "egg-mysql": "^3.0.0"
+  }
+}
